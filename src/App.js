@@ -1,11 +1,11 @@
 import './App.css'
-import MainCarousel from './Components/MainCarousel/MainCarousel'
+import Ourproduct from './Components/Ourproduct/Ourproduct'
 
 function App() {
     return (
         <div className='App'>
             <div>
-                <MainCarousel />
+                <Ourproduct />
             </div>
         </div>
     )

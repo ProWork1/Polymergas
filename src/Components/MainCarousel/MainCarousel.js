@@ -1,4 +1,5 @@
 import React from 'react'
+import { Container } from 'reactstrap'
 import './mainCarousel.scss'
 import { Swiper, SwiperSlide } from "swiper/react";
 
@@ -20,7 +21,7 @@ const MainCarousel = () => {
                     autoplay={{
                         "delay": 2500,
                         "disableOnInteraction": false
-                    }} 
+                    }}
                     className="mySwiper">
                     <SwiperSlide>
                         <div className="carousel_block">
