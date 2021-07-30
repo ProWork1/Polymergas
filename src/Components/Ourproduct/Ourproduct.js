@@ -13,7 +13,7 @@ const Ourproduct = () => {
                     <div class="col-md-6 col-12 mb-3 mb-md-0">
                         <div class="card card-product">
                             <div class="card-body">
-                                <img src="./images/1.png" class="img-fluid" alt=""/>
+                                <img src="images/1.png" class="img-fluid" alt=""/>
                                 <h4 class="m-0 py-3 font-weight-bold text-capitalize">Polietilen I-0760</h4>
                                 <p class="text-muted m-0">Umumiy maqsadlar uchun </p>
                             </div>
@@ -24,7 +24,7 @@ const Ourproduct = () => {
                             <div class="col-md-6 mb-3">
                                 <div class="card card-product card-product-sm">
                                     <div class="card-body">
-                                            <img src={"images/2.png"} class="img-fluid" alt=""/>
+                                            <img src="images/2.png" class="img-fluid" alt=""/>
                                             <h4 class="m-0 py-3 font-weight-bold text-capitalize">Polipropilen J-150</h4>
                                             <p class="text-muted m-0"> Umumiy xo'jalik maqsadlar uchun </p>
                                     </div>
@@ -64,7 +64,7 @@ const Ourproduct = () => {
                 </div>
                 <div className="row">
                     <div class="col-md-12 text-right py-5">
-                        <a href="./pages/porducts.html" class="btn btn-primary">Yana ko'rsatish</a>
+                        <a href="#" class="btn btn-primary">Yana ko'rsatish</a>
                     </div>
                 </div>
             </section>
