@@ -1,10 +1,11 @@
 import React from 'react'
+import { Container } from 'reactstrap'
 import './mainCarousel.scss'
 
 const MainCarousel = () => {
     return (
         <div>
-            Hello World
+            <Container>Hello World</Container>
         </div>
     )
 }
