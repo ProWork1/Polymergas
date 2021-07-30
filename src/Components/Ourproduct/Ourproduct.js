@@ -1,5 +1,6 @@
 import React from 'react'
 import './ourproduct.scss'
+import OurProductAbout from './ourProductAbout'
 
 const Ourproduct = () => {
     return (
@@ -69,6 +70,7 @@ const Ourproduct = () => {
                 </div>
             </section>
             
+            <OurProductAbout/>
         </div>
     )
 }
