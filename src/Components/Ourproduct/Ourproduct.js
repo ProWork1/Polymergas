@@ -4,7 +4,7 @@ import OurProductAbout from './ourProductAbout'
 
 const Ourproduct = () => {
     return (
-        <div>
+        <div id={"Ourproduct"}>
             <section className="container py-3 py-md-5">
                 <div className="title">
                     <h1>Bizning mahsulotlar</h1>

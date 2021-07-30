@@ -8,8 +8,6 @@ import 'swiper/components/navigation/navigation.min.css'
 import 'swiper/components/pagination/pagination.min.css'
 import App from './App';
 import reportWebVitals from './reportWebVitals';
-import './bootstrap.min.css';
-
 import './FA/css/all.min.css'
 
 ReactDOM.render(
