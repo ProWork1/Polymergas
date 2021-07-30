@@ -43,6 +43,10 @@
         .card {
             border: none;
             box-shadow: 2px 8px 10px 0px rgb(92 104 152 / 10%);
+            img {
+                vertical-align: middle;
+                border-style: none;
+            }
         }
     }
     .btn-primary{

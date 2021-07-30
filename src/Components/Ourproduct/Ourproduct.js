@@ -13,8 +13,8 @@ const Ourproduct = () => {
                     <div class="col-md-6 col-12 mb-3 mb-md-0">
                         <div class="card card-product">
                             <div class="card-body">
-                                <img src="images/1.png" class="img-fluid" alt=""/>
-                                <h4 class="m-0 py-3 font-weight-bold text-capitalize">Polietilen I-0760</h4>
+                                <img src="./images/ourproduct/1.png" class="img-fluid" alt=""/>
+                                <h4 class="mt-5 py-3 font-weight-bold text-capitalize">Polietilen I-0760</h4>
                                 <p class="text-muted m-0">Umumiy maqsadlar uchun </p>
                             </div>
                         </div>
@@ -24,7 +24,7 @@ const Ourproduct = () => {
                             <div class="col-md-6 mb-3">
                                 <div class="card card-product card-product-sm">
                                     <div class="card-body">
-                                            <img src="images/2.png" class="img-fluid" alt=""/>
+                                            <img src="./images/ourproduct/2.png" class="img-fluid" alt=""/>
                                             <h4 class="m-0 py-3 font-weight-bold text-capitalize">Polipropilen J-150</h4>
                                             <p class="text-muted m-0"> Umumiy xo'jalik maqsadlar uchun </p>
                                     </div>
@@ -33,7 +33,7 @@ const Ourproduct = () => {
                             <div class="col-md-6 mb-3">
                                 <div class="card card-product card-product-sm">
                                     <div class="card-body">
-                                        <img src="images/2.png" class="img-fluid" alt=""/>
+                                        <img src="./images/ourproduct/2.png" class="img-fluid" alt=""/>
                                         <h4 class="m-0 py-3 font-weight-bold text-capitalize">Polipropilen J-350</h4>
                                         <p class="text-muted m-0">
                                             Batareya qutilari, uy jihozlari uchun korpuslar
@@ -44,7 +44,7 @@ const Ourproduct = () => {
                             <div class="col-md-6 mb-3 mb-md-0">
                                 <div class="card card-product card-product-sm">
                                     <div class="card-body">
-                                        <img src="images/2.png" class="img-fluid" alt=""/>
+                                        <img src="./images/ourproduct/2.png" class="img-fluid" alt=""/>
                                         <h4 class="m-0 py-3 font-weight-bold text-capitalize">Polipropilen FR-170H</h4>
                                         <p class="text-muted m-0"> Umumiy xo'jalik maqsadlar uchun </p>
                                     </div>
@@ -53,7 +53,7 @@ const Ourproduct = () => {
                             <div class="col-md-6 mb-3 mb-md-0">
                             <div class="card card-product card-product-sm">
                                 <div class="card-body">
-                                    <img src="images/3.png" class="img-fluid" alt=""/>
+                                    <img src="./images/ourproduct/3.png" class="img-fluid" alt=""/>
                                     <h4 class="m-0 py-3 font-weight-bold text-capitalize">15813-020</h4>
                                     <p class="text-muted m-0"> Oziq-ovqat mahsulotlari uchun mo'ljallangan</p>
                                 </div>
