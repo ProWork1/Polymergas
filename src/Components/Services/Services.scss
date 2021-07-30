@@ -1,0 +1,56 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@800&display=swap');
+.Services {
+    .container{
+        .title{
+              h1{
+                line-height: 60px;
+                font-size: 40px;
+              width: 50%;
+              font-family: "Open Sans", sans-serif;
+              color:  #00477A;
+              position: relative;
+              &::after{
+                content: "";
+                height: 4px;
+                width: 15%;
+                display: block;
+                position: absolute;
+                left: 0;
+                bottom: -5px;
+                background-image: linear-gradient(
+                110deg
+                , #00477a 0%, #00AA8D 80%);
+              }
+            }
+            p{
+              margin: 0;
+              padding: 0.8rem 0;
+              color: rgba(52, 60, 92, 0.6);
+              font-family: sans-serif;
+              font-weight: 500 !important;
+              font-size: 16px;
+             
+            }
+        }
+        .row{
+          .col-md-4{
+            padding: 15px 15px;
+            .card-body{
+              padding: 56px 48px;
+              box-shadow: 0 0 15px rgba(0,0,0,0.1);
+              h4{
+                font-size: 24px;
+                color: #00477a;
+                padding: 16px 0;
+                font-weight: 600 !important;
+              }
+              p{
+                font-size: 16px;
+                color: rgba(52, 60, 92, 0.6);
+              }
+            }
+            
+          }
+        }
+      }
+}
