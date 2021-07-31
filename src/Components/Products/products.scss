@@ -1,0 +1,32 @@
+#products {
+    .container {
+        .row1 {
+            .col-md-12 {
+                p {
+                    color: #00477a !important;
+                    font-size: 30px;
+                }
+            }
+        }
+        .row2 {
+            .col-md-3 {
+                .card {
+                    img {
+                        object-fit: cover !important;
+                    }
+                    .card-body {
+                        h4 {
+                            font-size: 18px !important;
+                            font-weight: bold !important;
+                        }
+                    }
+                    &:hover {
+                        box-shadow: 0px 15px 22px 3px #dadada;
+                        transition: all 0.5s;
+                        border-radius: 5px !important;
+                    }
+                }
+            }
+        }
+    }
+}
