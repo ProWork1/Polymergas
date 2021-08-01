@@ -1,11 +1,19 @@
 .row {
-    --bs-gutter-x: 0 !important
+    --bs-gutter-x: 0 !important;
 }
-.product_about {
-    transition: all 2s linear !important;
+
+.modal-dialog {
+    max-width: 50% !important;
 }
-.fa-times {
-    float: right !important;
-    margin-right: 20px !important;
-    cursor: pointer;
+
+.closebtn {
+    position: absolute;
+    right: 10px;
+    top: 10px;
+    background: transparent;
+    font-size: 30px;
+}
+
+.closebtnimage {
+    margin-top: 45px !important;
 }

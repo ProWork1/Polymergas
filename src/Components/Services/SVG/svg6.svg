@@ -1,0 +1,28 @@
+<svg
+                  xmlns="http://www.w3.org/2000/svg"
+                  width="50"
+                  height="50"
+                  fill="none"
+                >
+                  <circle cx="22" cy="22" r="22" fill="#00aa8d3d"></circle>
+                  <path
+                    stroke="#00AA8D"
+                    stroke-width="2"
+                    d="M44.33 20H49v23H28M18.57 43H14V20h16"
+                    stroke-linecap="square"
+                  ></path>
+                  <path
+                    fill-rule="evenodd"
+                    stroke="#00AA8D"
+                    stroke-width="2"
+                    d="M43.18 31H30.82c-.45 0-.82-.36-.82-.8V15.8c0-.44.37-.8.82-.8h12.36c.45 0 .82.36.82.8v14.4c0 .44-.37.8-.82.8zM27.18 49h-7.36c-.45 0-.82-.36-.82-.8V36.8c0-.44.37-.8.82-.8h7.36c.45 0 .82.36.82.8v11.4c0 .44-.37.8-.82.8z"
+                    clip-rule="evenodd"
+                    stroke-linecap="square"
+                  ></path>
+                  <path
+                    stroke="#00AA8D"
+                    stroke-width="2"
+                    d="M31 47.5h5M23 44.5h1M36 27.5h2"
+                    stroke-linecap="square"
+                  ></path>
+                </svg>

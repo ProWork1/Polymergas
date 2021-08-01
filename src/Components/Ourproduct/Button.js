@@ -1,12 +1,13 @@
 import React from 'react'
+import { Row , Col } from 'reactstrap'
 
 const Ourproduct = () => {
     return (
-        <div className="row">
-            <div className="col-md-12 text-right py-5">
+        <Row > {/*className="row"*/}
+            <Col md={12} className="text-right py-5">
                 <a href="#" className="btn btn-primary">Yana ko'rsatish</a>
-            </div>
-        </div>
+            </Col>
+        </Row>
     )
 }
 

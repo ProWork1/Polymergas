@@ -2,25 +2,25 @@
 * {
     box-sizing: border-box !important;
     color: #00477a;
-    font-family: "Open Sasn", sans-serif;
+    font-family: 'Open Sasn', sans-serif;
     font-size: 16px;
 }
-.container{
+.ourproduct-section {
     background-image: url(./images/home-bg-img.webp);
     background-repeat: no-repeat;
     background-position: right top;
     background-size: 40%;
-    .title{
+    .title {
         h1 {
             line-height: 60px;
             font-size: 40px;
             font-weight: 800;
             :after {
-                content: "";
+                content: '';
                 height: 4px;
                 width: 15%;
                 display: block;
-                background-image: linear-gradient(110deg, #00477a 0%, #00AA8D 80%);
+                background-image: linear-gradient(110deg, #00477a 0%, #00aa8d 80%);
             }
         }
         p {
@@ -29,7 +29,7 @@
             color: rgba(52, 60, 92, 0.6);
         }
     }
-    .row{
+    .card-component {
         .card-product {
             height: 100%;
             cursor: pointer;
@@ -39,8 +39,6 @@
             background-image: linear-gradient(0, rgba(0, 71, 122, 0.1), transparent 80%);
             background-repeat: no-repeat;
             transition: background-position 0.25s ease-in-out;
-        }
-        .card {
             border: none;
             box-shadow: 2px 8px 10px 0px rgb(92 104 152 / 10%);
             img {
@@ -49,26 +47,25 @@
             }
         }
     }
-    .btn-primary{
+    .btn-primary {
         padding: 15px 38px;
         line-height: 19px;
         border: none !important;
-        transition: all 0.25s linear; 
-        background-image: linear-gradient(110deg, #00477a 0%, #00AA8D 80%);
+        transition: all 0.25s linear;
+        background-image: linear-gradient(110deg, #00477a 0%, #00aa8d 80%);
         box-shadow: 0px 15px 25px 0px rgba(52, 60, 92, 40%);
     }
-    .btn-primary:hover{
+    .btn-primary:hover {
         background: #005999 !important;
         box-shadow: 0px 15px 25px 0px rgb(52 60 92 / 60%);
     }
     .text-right {
-        text-align: right!important;
+        text-align: right !important;
     }
 }
 
-
-@media (max-width:576px) {
-    .title h1{
+@media (max-width: 576px) {
+    .title h1 {
         line-height: 50px !important;
         font-size: 32px !important;
     }

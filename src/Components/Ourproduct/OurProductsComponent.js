@@ -24,7 +24,7 @@ const OurProductsComponent = (props) => {
     ))
 
     return (
-        <Row className="pt-5">
+        <Row className="pt-5 card-component">
             <Col sm={6} md={6} className="mb-3">
                 <Maincard /> 
             </Col>

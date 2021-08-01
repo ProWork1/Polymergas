@@ -1,0 +1,28 @@
+<svg
+    xmlns="http://www.w3.org/2000/svg"
+    width="50"
+    height="50"
+    fill="none"
+>
+    <g clip-path="url(#a)">
+        <circle cx="22" cy="22" r="22" fill="#00aa8d3d"></circle>
+        <path
+            stroke="#00AA8D"
+            stroke-width="2"
+            d="M36 16l10 10M32 19.06c-4.65-2.05-10.25-1.13-14.04 2.76-.78.8-1.43 1.67-1.96 2.6L21.45 30M42.9 30c2.1 4.94 1.2 10.9-2.7 14.93-.8.83-1.68 1.5-2.6 2.07L32 41.2"
+        ></path>
+        <path
+            fill-rule="evenodd"
+            stroke="#00AA8D"
+            stroke-width="2"
+            d="M28.23 43L19 33.77S26.88 14.15 49 13c-1.25 22.02-20.77 30-20.77 30zM13 45c0-2.2 1.8-4 4-4s4 1.8 4 4-1.8 4-4 4c-.9 0-4 0-4 0s0-2.7 0-4zM33.5 32c1.93 0 3.5-1.57 3.5-3.5S35.43 25 33.5 25 30 26.57 30 28.5s1.57 3.5 3.5 3.5z"
+            clip-rule="evenodd"
+            stroke-linecap="square"
+        ></path>
+    </g>
+    <defs>
+        <clipPath id="a">
+            <path fill="#fff" d="M0 0h50v50H0z"></path>
+        </clipPath>
+    </defs>
+</svg>

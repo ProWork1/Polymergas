@@ -1,0 +1,27 @@
+<svg
+                  xmlns="http://www.w3.org/2000/svg"
+                  width="50"
+                  height="50"
+                  fill="none"
+                >
+                  <circle cx="22" cy="22" r="22" fill="#00aa8d3d"></circle>
+                  <path
+                    stroke="#00AA8D"
+                    stroke-width="2"
+                    d="M25.5 21.5h2M32.5 21.5h10M25.5 27.5h2M32.5 27.5h10M25.5 34.5h2M32.5 34.5h10M25.5 40.5h8"
+                    stroke-linecap="square"
+                  ></path>
+                  <path
+                    stroke="#00AA8D"
+                    stroke-width="2"
+                    d="M38.5 49V39h10"
+                  ></path>
+                  <path
+                    fill-rule="evenodd"
+                    stroke="#00AA8D"
+                    stroke-width="2"
+                    d="M38.83 49H19.5V13h29v26.18L38.83 49z"
+                    clip-rule="evenodd"
+                    stroke-linecap="square"
+                  ></path>
+                </svg>
