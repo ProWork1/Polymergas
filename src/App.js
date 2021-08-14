@@ -1,18 +1,12 @@
-import "./App.css";
-import Index from "./Components/MahsulotInformation";
-import Ourproduct from "./Components/Ourproduct/Ourproduct";
-import Services from "./Components/Services/Services";
-
+import React from 'react'
+import Services from './Components/Services/Services'
+import './index.css'
 function App() {
-  return (
-    <div className="App">
-      <div>
-        <Services />
-        <Ourproduct />
-        <Index />
-      </div>
-    </div>
-  );
+    return (
+        <div>
+            <Services/>
+        </div>
+    )
 }
 
-export default App;
+export default App

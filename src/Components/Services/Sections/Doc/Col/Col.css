@@ -1,0 +1,12 @@
+.ColDoc {
+  text-align: center;
+  width: 70%;
+  margin: 0 auto;
+}
+.ColDoc .avatar {
+  margin: 0 auto;
+  width: 90px;
+  height: 90px;
+  background: #c4c4c4;
+  border-radius: 50%;
+}
